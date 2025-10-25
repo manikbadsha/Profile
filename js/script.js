@@ -18,7 +18,7 @@ $(document).ready(function() {
 	});
 
 	var typed=new Typed(".typed",{
-		strings:["Software Developer.","Survey Programmer & Data Analyst."],
+		strings:["Software Developer.","Survey Programmer."],
 		typeSpeed:70,
 		loop:true,
 		startDelay:1000,
